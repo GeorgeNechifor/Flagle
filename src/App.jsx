@@ -159,7 +159,6 @@ function App(props){
                         onClick={event => {event.target.value = ""}}
 
                     />
-                    
                     <button className="btn"
                         
                         onClick={() => {
